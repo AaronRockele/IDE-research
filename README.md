@@ -1,5 +1,5 @@
 # brackets
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png =20%x20%)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png=20%x20%)
 ### [downoad link](http://brackets.io/)
 
 
