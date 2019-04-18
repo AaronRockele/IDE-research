@@ -1,5 +1,5 @@
 # brackets
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png=20%x20%)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png {height=20% width=20%})
 ### [downoad link](http://brackets.io/)
 
 
@@ -25,4 +25,3 @@
 
 > that's very easy. i use it because i know it. i learned this in school and just kept using it  and it has never failed me. well didn't do much more then HTML and CSS so i might find some  >  difficulties when i have to use it for heavier things. 
 
-uuu
