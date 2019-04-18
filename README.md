@@ -18,7 +18,7 @@
 
 2. since brackets is an open source software, it is always inproving. so if you feel like there is lacking something after a while it will probably be added in a software update.
 
-3. it would be nice if brackets had a sharing function. so you could easy share your code between users so they could help you work on you projects. but hey that's what github is for!
+3. it would be nice if brackets had a sharing function. so you could easy share your code between users so they could help you work on you projects. but hey there you got github for! :grimacing:
 
 ## why do i use it? 
 
