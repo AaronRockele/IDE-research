@@ -14,7 +14,7 @@
 
 ## cons
 
-1. the live browser view only works with chrome.
+1. the live browser view only works with _chrome_.
 
 2. since brackets is an open source software, it is always inproving. so if you feel like there is lacking something after a while it will probably be added in a software update.
 
