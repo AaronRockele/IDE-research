@@ -2,7 +2,7 @@
 
 # brackets
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png" height="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png" height="100"> 
 
 ### [downoad link](http://brackets.io/)
 
