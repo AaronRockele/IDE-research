@@ -22,4 +22,4 @@
 
 ## why do i use it? 
 
-that's very easy. i use it because i know it. i learned this in school and just kept using it. and it has never failed me. well didn't do much more then HTML and CSS so i might find some difficulties when i have to use it for heavier things. 
+that's very easy. i use it because i know it. i learned this in school and just kept using it and it has never failed me. well didn't do much more then HTML and CSS so i might find some difficulties when i have to use it for heavier things. 
