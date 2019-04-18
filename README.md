@@ -1,4 +1,5 @@
 # brackets
+![brackets logo](https://github.com/AaronRockele/IDE-research/IMG/brackets.png)
 ### [downoad link](http://brackets.io/)
 
 
