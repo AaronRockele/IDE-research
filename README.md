@@ -77,6 +77,8 @@
 + If you have too many projects open, Netbeans takes quite a while to load. 
 
 + Code completion and PHP platform function helps can occasionally be more of a curse than a blessing. Constant 'pop ups' of hints, suggestions make coding a bit aggravating
+    + pop ups
+    + hints
 
 *****
 
