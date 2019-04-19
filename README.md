@@ -4,7 +4,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png" height="140"> 
 
-###[downoad link](http://brackets.io/)
+### [downoad link](http://brackets.io/)
 
 
 
@@ -34,3 +34,5 @@
 # NetBeans
 
 <img src="https://logonoid.com/images/netbeans-logo.png" height="100">
+
+### [downoad link](https://netbeans.org/downloads/8.2/)
