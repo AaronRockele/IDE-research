@@ -36,3 +36,20 @@
 <img src="https://logonoid.com/images/netbeans-logo.png" height="100">
 
 ### [downoad link](https://netbeans.org/downloads/8.2/)
+
+## pro's
+
+1. Formatting and defining rules for each language is a very useful feature in this IDE.
+
+2. Great code completion, just start typing some code and the program will fill in the code.
+
+3. The code can be deployed very easy from Netbeans itself.
+
+## cons
+
++ Sometimes the code hints are a little intrusive and need to be 'turned off'
+
++ If you have too many projects open, Netbeans takes quite a while to load. 
+
++ Code completion and PHP platform function helps can occasionally be more of a curse than a blessing. Constant 'pop ups' of hints, suggestions make coding a bit aggravating
+
