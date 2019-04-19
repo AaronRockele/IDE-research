@@ -4,8 +4,8 @@
 - [x] a table
 - [x] bold text
 - [x] italic text
-- [] a non numbered list with subpoints
-- [] a qoute
+- [ ] a non numbered list with subpoints
+- [ ] a qoute
 - [x] headers
 - [x] A code block
 - [x] A task list
