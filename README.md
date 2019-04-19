@@ -1,3 +1,28 @@
+- [x] an image
+- [x] a url with custom text
+- [x] a numbered list
+- [x] a table
+- [x] bold text
+- [x] italic text
+- [] a non numbered list with subpoints
+- [] a qoute
+- [x] headers
+- [x] A code block
+- [x] A task list
+- [x] An emoji
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # brackets
@@ -64,5 +89,19 @@
 <img src="https://developer.apple.com/assets/elements/icons/xcode6/Xcode6-128x128_2x.png" height="100">
 
 ### [downoad link](https://developer.apple.com/xcode/)
+
+
+## pro's 
+
+1. Split Window View
+
+2. Code Filter
+
+
+## cons
+
+1. only for mac
+
+
 
 
