@@ -33,4 +33,4 @@
 
 # NetBeans
 
-<img src="https://logonoid.com/images/netbeans-logo.png" height="140">
+<img src="https://logonoid.com/images/netbeans-logo.png" height="100">
