@@ -4,7 +4,7 @@
 - [x] a table
 - [x] bold text
 - [x] italic text
-- [ ] a non numbered list with subpoints
+- [x] a non numbered list with subpoints
 - [ ] a qoute
 - [x] headers
 - [x] A code block
@@ -54,6 +54,8 @@
 
 > that's very easy. i use it because i know it. i learned this in school and just kept using it  and it has never failed me. well didn't do much more then HTML and CSS so i might find some difficulties when i have to use it for heavier things. 
 
+
+> "Brackets is a very attractive and visually attractive code editor for the development of code, especially very useful for the development of web applications due to its support for php, css and javascript for those who implement the auto-completion function in a very accurate way and intuitive." - happy user 
 *****
 
 # NetBeans
