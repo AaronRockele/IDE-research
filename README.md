@@ -2,9 +2,9 @@
 
 # brackets
 
--> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png" height="140"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png" height="140"> 
 
-###[downoad link](http://brackets.io/) <-
+###[downoad link](http://brackets.io/)
 
 
 
@@ -29,3 +29,8 @@
 
 > that's very easy. i use it because i know it. i learned this in school and just kept using it  and it has never failed me. well didn't do much more then HTML and CSS so i might find some difficulties when i have to use it for heavier things. 
 
+*****
+
+# NetBeans
+
+<img src="https://c7.uihere.com/files/977/605/189/5bbc118b73d50-thumb.jpg" height"140">
