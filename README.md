@@ -5,24 +5,11 @@
 - [x] bold text
 - [x] italic text
 - [x] a non numbered list with subpoints
-- [ ] a qoute
+- [x] a qoute
 - [x] headers
 - [x] A code block
 - [x] A task list
 - [x] An emoji
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # brackets
